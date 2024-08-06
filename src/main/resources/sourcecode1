@@ -1,0 +1,5 @@
+var lox = "Lox"
+var a = 2
+var b = 2
+print(lox)
+print(a+b)
